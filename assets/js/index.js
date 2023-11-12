@@ -481,7 +481,7 @@ function registerUser() {
   var lastName = document.getElementById('last-name').value;
   var firstName = document.getElementById('first-name').value;
   var middleName = document.getElementById('middle-name').value;
-  var birth = document.getElementById('date-of-birth').value;
+  var birth = document.getElementById('datepicker').value;
   var gender = document.getElementById('select-sex').value;
   var civilStatus = document.getElementById('select-civil-status').value;
   var email = document.getElementById('email').value;
